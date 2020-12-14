@@ -11,5 +11,9 @@ Quandl API reader (currently a Flask server hosted in pythonanywhere.com)
 TechanJS for rendering custom candlestick charts
 ```
 
+![Signals](/signals.png)
+
+Above is a sample backtest with buy/sell signals represented by blue and red arrows
+
 ### License
 [MIT](https://choosealicense.com/licenses/mit/)
