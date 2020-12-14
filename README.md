@@ -4,5 +4,6 @@ It will signal the users with trade indicators to buy/sell/hold the stock and al
 
 Requirements:
 
+Django framework (for routing)
 Quandl API reader (currently a Flask server hosted in pythonanywhere.com)
 TechanJS for rendering custom candlestick charts
